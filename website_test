@@ -1,4 +1,4 @@
-git clone https://github.com/Zincman360/Zincman360.github.io
+$ git clone https://github.com/Zincman360/Zincman360.github.io
 
-cd Zincman360.github.io
-echo "Hello World" > index.html
+$ cd Zincman360.github.io
+$ echo "Hello World" > index.html
